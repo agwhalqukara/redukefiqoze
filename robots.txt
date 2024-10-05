@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://redukefiqoze.pages.dev/sitemap.xml
